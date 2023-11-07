@@ -9,7 +9,7 @@ const bot = client({
         reconnect: true,
     },
 	identity: {
-		username: 'jerry-the-pogchamp',
+		username: 'jerrythepogchamp',
 		password: process.env.OAUTH
 	},
 	channels: [ 'w0rthyTV' ]
