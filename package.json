@@ -9,7 +9,11 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "discord.js": "^14.13.0",
     "dotenv": "^16.3.1",
     "tmi.js": "^1.8.5"
+  },
+  "devDependencies": {
+    "@types/tmi.js": "^1.8.6"
   }
 }
